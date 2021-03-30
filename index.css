@@ -1,0 +1,22 @@
+body{
+    background-image: url(/images-dg/dog5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    ba
+    color: white;
+    opacity: 0.8;
+}
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+.img{
+    d
+}
+#dogs{
+    display: flex;
+    flex-direction: row;
+
+    height: 100px;
+    width: 100px;
+}
