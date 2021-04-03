@@ -2,21 +2,27 @@ body{
     background-image: url(/images-dg/dog5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    ba
     color: white;
+    line-height: 1.5;
     opacity: 0.8;
+    margin-left: 25px;
 }
 h1{
     color: lightgreen;
     text-align: center;
 }
-.img{
-    d
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
 }
 #dogs{
     display: flex;
     flex-direction: row;
-
-    height: 100px;
-    width: 100px;
+    justify-content: space-between;
+    height: 200px;
+    width: 200px;
+}
+a{
+    color: yellowgreen;
 }
